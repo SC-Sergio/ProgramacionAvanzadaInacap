@@ -4,7 +4,7 @@ public class Estado
 {
 	public Estado()
 
-		private int producto_id = 1;
+	    private int producto_id = 1;
 	    private bool estado = false;
 	{
 	    public static void Main()
