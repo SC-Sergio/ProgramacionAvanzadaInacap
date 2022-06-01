@@ -1,0 +1,16 @@
+C:\Users\Anonymous\Desktop\Programacion Avanzada\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.csproj.AssemblyReference.cache
+C:\Users\Anonymous\Desktop\Programacion Avanzada\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anonymous\Desktop\Programacion Avanzada\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\Programacion Avanzada\ProyectoPoleras\ProyectoPoleras\bin\Debug\ProyectoPoleras.exe.config
+C:\Users\Anonymous\Desktop\Programacion Avanzada\ProyectoPoleras\ProyectoPoleras\bin\Debug\ProyectoPoleras.exe
+C:\Users\Anonymous\Desktop\Programacion Avanzada\ProyectoPoleras\ProyectoPoleras\bin\Debug\ProyectoPoleras.pdb
+C:\Users\Anonymous\Desktop\Programacion Avanzada\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.exe
+C:\Users\Anonymous\Desktop\Programacion Avanzada\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.pdb
+D:\Descargas\ProyectoPoleras\ProyectoPoleras\bin\Debug\ProyectoPoleras.exe.config
+D:\Descargas\ProyectoPoleras\ProyectoPoleras\bin\Debug\ProyectoPoleras.exe
+D:\Descargas\ProyectoPoleras\ProyectoPoleras\bin\Debug\ProyectoPoleras.pdb
+D:\Descargas\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.csproj.AssemblyReference.cache
+D:\Descargas\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.csproj.SuggestedBindingRedirects.cache
+D:\Descargas\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.csproj.CoreCompileInputs.cache
+D:\Descargas\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.exe
+D:\Descargas\ProyectoPoleras\ProyectoPoleras\obj\Debug\ProyectoPoleras.pdb
