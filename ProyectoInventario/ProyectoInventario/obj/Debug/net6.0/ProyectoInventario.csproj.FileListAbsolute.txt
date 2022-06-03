@@ -1,0 +1,15 @@
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ProyectoInventario.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ProyectoInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ProyectoInventario.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ProyectoInventario.AssemblyInfo.cs
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ProyectoInventario.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\bin\Debug\net6.0\ProyectoInventario.exe
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\bin\Debug\net6.0\ProyectoInventario.deps.json
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\bin\Debug\net6.0\ProyectoInventario.runtimeconfig.json
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\bin\Debug\net6.0\ProyectoInventario.dll
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\bin\Debug\net6.0\ProyectoInventario.pdb
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ProyectoInventario.dll
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\refint\ProyectoInventario.dll
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ProyectoInventario.pdb
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ProyectoInventario.genruntimeconfig.cache
+C:\Users\sergi\source\repos\ProyectoInventario\ProyectoInventario\obj\Debug\net6.0\ref\ProyectoInventario.dll
