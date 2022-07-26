@@ -1,2 +1,2 @@
 # ProgramacionAvanzadaInacap
-Programación Avanzada de Aplicaciones - Proyecto Inventario de una Empresa
+Programación Avanzada de Aplicaciones - Proyecto Bodega Inventario HagaloUstedMismo
